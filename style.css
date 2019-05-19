@@ -1,0 +1,33 @@
+.main-block{
+	width: 560px;
+	height: 560px;
+	margin: 30px auto;
+	border: 1px solid gray;
+}
+.block{
+	width: 68px;
+	height: 68px;
+	float: left;
+	display: block; 
+	cursor: pointer; 
+	margin: 1px;
+}
+
+.black{
+	background: #000;
+}
+.white{
+	background: #fff;
+}
+.blue.white{
+	background: blue;
+}
+.blue.black{
+	background: blue;
+}
+.green.white{
+	background: green;
+}
+.green.black{
+	background: green;
+}
